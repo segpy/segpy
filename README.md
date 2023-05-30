@@ -17,7 +17,6 @@ I'm a passionate Web Developer 🧒🏻💻 thirsty for learning and passionate 
 - 🌱 I’m currently learning programming and web development
 - 💬 Ask me about whatever you think may help you
 - 📫 How to reach me: sebastiangomezv98@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
 
 ---
