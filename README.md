@@ -30,24 +30,24 @@ I'm a passionate Web Developer 🧒🏻💻 thirsty for learning and passionate 
 
 ## Languages and Tools:
 
+<code><img height="40" src="https://logospng.org/download/java/logo-java-512.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://nodejs.dev/static/images/brand/logos-js-right/dark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
+
+
 
 ### Front-End Development
 
 ![react](https://img.shields.io/badge/React-2F2F30?style=for-the-badge&logo=react&logoColor=61DAFB)
-![next](https://img.shields.io/badge/Next-3B3B3D?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-C51607?style=for-the-badge&logo=react-router&logoColor=white)
+![redux](https://img.shields.io/badge/redux-rgb(98%2C%0949%2C%09174)?style=for-the-badge&logo=redux&logoColor=white)
+![next](https://img.shields.io/badge/Next-3B3B3D?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![html](https://img.shields.io/badge/HTML5-E20C1C?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-0C54DC?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-DF46A2?style=for-the-badge&logo=sass&logoColor=white)
@@ -58,15 +58,17 @@ I'm a passionate Web Developer 🧒🏻💻 thirsty for learning and passionate 
 
 ### Back-End Development
 
+![springboot](https://img.shields.io/badge/spring_boot-rgb(92%2C167%2C48)?style=for-the-badge&logo=springboot&logoColor=white)
+![django](https://img.shields.io/badge/django-rgb(5%2C48%2C32)?style=for-the-badge&logo=django&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![nodemon](https://img.shields.io/badge/Nodemon-12B83A?style=for-the-badge&logo=nodemon&logoColor=white)
-![express](https://img.shields.io/badge/Express-06C712?style=for-the-badge&logo=nodemon&logoColor=white)
+![express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=white)
 
 
 ---
 
 ### Database
 
+![postgresql](https://img.shields.io/badge/Postgresql-rgb(40%2C83%2C126)?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-19A2CA?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -74,6 +76,7 @@ I'm a passionate Web Developer 🧒🏻💻 thirsty for learning and passionate 
 
 ### Deployment
 
+![aws](https://img.shields.io/badge/Amazon_AWS-rgb(244%2C134%2C24)?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-0EB3A9?style=for-the-badge&logo=netlify&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-F19A14?style=for-the-badge&logo=firebase&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-9E7CC1?style=for-the-badge&logo=heroku&logoColor=white)
@@ -84,6 +87,7 @@ I'm a passionate Web Developer 🧒🏻💻 thirsty for learning and passionate 
 ### 🖥️ Workspace Setup
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![intellig-idea](https://img.shields.io/badge/Intellij_Idea-black?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 
 
